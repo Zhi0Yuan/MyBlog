@@ -1,5 +1,7 @@
 # TP-Link ER605 Command injection
 
+[English](https://github.com/Zhi0Yuan/MyBlog/blob/main/tp-link-er605/tp-link-er605-en.md)
+
 ## 前言
 
 > 这是我写这个漏洞文章的第二版，发现漏洞的契机是在去年的PWN2OWN TORONTO 2023这个设备是比赛的目标设备，在比赛的固件中已修复了该问题，让我们来简单的看一下这个漏洞吧。
