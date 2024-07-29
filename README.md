@@ -17,3 +17,7 @@
 ```
 ./Elfsscan.sh  or ./Elfsscna.sh -f
 ```
+
+### [2024-7-29 --- Uniview NVR command injection](https://github.com/Zhi0Yuan/MyBlog/blob/main/Uniview-NVR-RCE.md)
+
+> 一次临时起意发现我的城市的地铁使用的是Uniview的摄像头，于是我将目标对准了Uniview🫡
