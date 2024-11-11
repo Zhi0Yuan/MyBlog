@@ -453,7 +453,7 @@ undefined8 ssdp_parser(char *param_1,undefined8 param_2)
           if (0x800 < iVar9) {
             iVar9 = 0x800;
           }
-          memcpy(auStack_800,pcVar6 + 1,(long)iVar9); //这里貌似有缓冲区溢出但是没有测试过
+          memcpy(auStack_800,pcVar6 + 1,(long)iVar9);
           auStack_800[iVar9] = 0;
           if (0 < *(int *)(lVar1 + 8)) {
             lVar10 = 0;
