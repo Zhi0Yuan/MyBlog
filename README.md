@@ -21,3 +21,7 @@
 ### [2024-7-29 --- Uniview NVR command injection](https://github.com/Zhi0Yuan/MyBlog/blob/main/Uniview-NVR-RCE.md)
 
 > 一次临时起意发现我的城市的地铁使用的是Uniview的摄像头，于是我将目标对准了Uniview🫡
+
+### [2024-11-11 --- QHora-322 Device analysis ](https://github.com/Zhi0Yuan/MyBlog/blob/main/Pwn2Own-2024-QHora-322/Pwn2Own-qnap-router.md)
+
+> 今年的Pwn2Own如期而至，向往年一样选择了一个目标进行分析和挖掘，这个文章在比赛之前就写好了所以分析的固件版本是`2.4.1.634 build 20240710`
