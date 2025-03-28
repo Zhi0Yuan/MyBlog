@@ -25,3 +25,7 @@
 ### [2024-11-11 --- QHora-322 Device analysis ](https://github.com/Zhi0Yuan/MyBlog/blob/main/Pwn2Own-2024-QHora-322/Pwn2Own-qnap-router.md)
 
 > 今年的Pwn2Own如期而至，向往年一样选择了一个目标进行分析和挖掘，这个文章在比赛之前就写好了所以分析的固件版本是`2.4.1.634 build 20240710`
+
+### [2025-3-28 --- Secgate3600 NGFW vulnerable? ](https://github.com/Zhi0Yuan/MyBlog/blob/main/SecGate/Secgate_3600_RCE.md)
+
+> 咸鱼上买的Secgate3600防火墙镜像分析和漏洞
