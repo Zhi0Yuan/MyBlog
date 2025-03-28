@@ -607,7 +607,7 @@ Referer: https://xxx.xxx.xxx.xxx:xxxx/login
 
 ## 漏洞分析END
 
-[exp](https://)
+[exp](https://github.com/Zhi0Yuan/MyBlog/blob/main/SecGate/Exploit.py)
 
 ### 番外篇固件解密
 
